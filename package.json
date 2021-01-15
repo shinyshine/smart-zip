@@ -1,0 +1,21 @@
+{
+  "name": "smart-zip",
+  "version": "1.0.0",
+  "description": "zip file with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "zip",
+    "gzip",
+    "command"
+  ],
+  "author": "shinyshine",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "compressing": "^1.5.1"
+  }
+}
